@@ -12,3 +12,23 @@ $(document).ready(function() {
     });
 
 });
+
+
+
+
+
+
+
+function videogame (name) {
+    if ( "Pubg" ){
+        return 9;
+        
+    }
+    else if ("fortnite"){
+        return 10;
+    }
+    else if ("call of duty"){
+        return 7;
+        
+    }else if("league of legend");{
+}}
